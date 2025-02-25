@@ -12,7 +12,7 @@ license = "MIT"
 readme = "README.md"
 exclude = [".github/*", ".assets/*"]
 edition = "2021"
-build = "build.rs"
+
 
 [[bin]]
 name = "code2prompt"
